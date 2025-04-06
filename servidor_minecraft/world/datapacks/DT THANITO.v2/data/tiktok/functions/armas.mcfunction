@@ -1,0 +1,3 @@
+give Bartynz minecraft:bow{Enchantments:[{id:"minecraft:power",lvl:5},{id:"minecraft:punch",lvl:2},{id:"minecraft:flame",lvl:1},{id:"minecraft:infinity",lvl:1},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]}
+give Bartynz minecraft:netherite_pickaxe{Enchantments:[{id:"minecraft:efficiency",lvl:5},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:fortune",lvl:3},{id:"minecraft:mending",lvl:1},{id:"minecraft:silk_touch",lvl:1}]}
+give Bartynz arrow 64

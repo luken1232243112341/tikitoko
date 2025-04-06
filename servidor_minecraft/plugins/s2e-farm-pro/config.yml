@@ -1,0 +1,25 @@
+mob_velocity: 1
+
+snowball_radius: 1
+
+dragon_velocity: 1
+dragon_spawn_offset: 10
+dragon_fire_time_delay: 5
+
+farmer_seed_counter: 21
+farmer_max_life_seconds: 120
+
+win_title_1: Winner winner!!!
+win_title_2: Sheep for dinner!!!
+win_sub_title_2: Powered by streamtoearn.io
+
+wolf_max_kills: 5
+wolf_eats_white_sheeps: true
+wolf_eats_colored_sheeps: false
+wolf_eats_pigs: false
+wolf_eats_cows: false
+wolf_eats_witches: true
+wolf_eats_piglins: true
+
+tnt_fuse: 2
+create_farm: create 391 154 1904 10 10
