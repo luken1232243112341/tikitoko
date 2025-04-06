@@ -1,5 +1,0 @@
-give @p minecraft:netherite_sword{Enchantments:[{id:"minecraft:sharpness",lvl:5},{id:"minecraft:smite",lvl:5},{id:"minecraft:bane_of_arthropods",lvl:5},{id:"minecraft:knockback",lvl:2},{id:"minecraft:fire_aspect",lvl:2},{id:"minecraft:looting",lvl:3},{id:"minecraft:sweeping",lvl:3},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]} 1
-give @p netherite_boots{Enchantments:[{id:"minecraft:protection",lvl:4},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1},{id:"minecraft:feather_falling",lvl:4}]}
-give @p netherite_leggings{Enchantments:[{id:"minecraft:protection",lvl:4},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]}
-give @p netherite_chestplate{Enchantments:[{id:"minecraft:protection",lvl:4},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]}
-give @p netherite_helmet{Enchantments:[{id:"minecraft:protection",lvl:4},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1}]}
